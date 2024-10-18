@@ -1,3 +1,2 @@
 ```sh
-#!/bin/bash
-echo "npm install trying-to-do-amazing-things"
+npm install trying-to-do-amazing-things
